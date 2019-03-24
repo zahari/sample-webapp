@@ -19,10 +19,12 @@ This is used in the demonstration of development of Ansible Playbooks.
 
    
 ## 2. Install and Configure Database
+## 2. Install and Configure Database
     
  Install MySQL database
     
     apt-get install -y mysql-server mysql-client
+
 
 ## 3. Start Database Service
   - Start the database service
