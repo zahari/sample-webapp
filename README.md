@@ -16,6 +16,7 @@ This is used in the demonstration of development of Ansible Playbooks.
   Python and its dependencies
 
     apt-get install -y python python-setuptools python-dev build-essential python-pip python-mysqldb
+    apt-get install -y python python-setuptools python-dev build-essential python-pip python-mysqldb
 
    
 ## 2. Install and Configure Database
