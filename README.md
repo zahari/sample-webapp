@@ -11,12 +11,6 @@ This is used in the demonstration of development of Ansible Playbooks.
   - Install and Configure Web Server
   - Start Web Server
    
-## 1. Install all required dependencies
-  
-  Python and its dependencies
-
-    apt-get install -y python python-setuptools python-dev build-essential python-pip python-mysqldb
-    apt-get install -y python python-setuptools python-dev build-essential python-pip python-mysqldb
 
    
 ## 2. Install and Configure Database
